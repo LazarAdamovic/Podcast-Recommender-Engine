@@ -2,6 +2,7 @@ Hi! Welcome to my project. I created a working model of a podcast recommender en
 
 FILES:
 1-EDA_podcast_recommender.ipynb ==> is exploratary data analysis
+
 2-podcast_recommender_project.ipynb ==> is experimenting wth several different recommender models
 
 DATABASE (files were too large for github): 
