@@ -1,6 +1,7 @@
 Hi! Welcome to my project. I created a working model of a podcast recommender engine as my final project for my data science course at lighthouse labs. This is a working model of the project, but I am still developing and testing new models and features.
 
 FILES:
+
 1-EDA_podcast_recommender.ipynb ==> is exploratary data analysis
 
 2-podcast_recommender_project.ipynb ==> is experimenting wth several different recommender models
