@@ -6,12 +6,11 @@ FILES:
 
 2-podcast_recommender_project.ipynb ==> is experimenting wth several different recommender models
 
-Database download: 
-
-(files were too large for github) There are 3 files in this folder. One is the SQL query results, the second is the database created at the end of 1==> https://drive.google.com/drive/folders/1bS-QMewZ4B-ciUBJwIhRbGQH0excVmkS?usp=sharing
+Database download(files were too large for github): 
+There are 3 files in this folder. One is the SQL query results, the second is the database created at the end of
+https://drive.google.com/drive/folders/1bS-QMewZ4B-ciUBJwIhRbGQH0excVmkS?usp=sharing
 
 Presentation:
-
 https://drive.google.com/drive/folders/1hRxN1uAjLER_tBk6Lha3hLRpGFbfWFj3?usp=sharing
 
 VALUE STATEMENT:
