@@ -1,4 +1,4 @@
-Hi! Welcome to my project. I created a working model of a podcast recommender engine as my final project for my data science course at lighthouse labs. This is a working model of the project, but I am still developing and testing new models and features.
+Hi!. I created a working model of a podcast recommender engine as my final project for my data science course at lighthouse labs.
 
 FILES:
 
